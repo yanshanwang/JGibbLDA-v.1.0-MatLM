@@ -8,3 +8,6 @@
 1. Make sure the input data follows the format required by `JGibbLDA`.
 2. Run package `JGibbLDA` to obtain results of LDA. (see details: http://jgibblda.sourceforge.net/)
 3. Change input and output directories in `LdaInfoRetrieval.java`.
+
+Please refer to:
+Yanshan Wang. MatLM: a Java Package for Matrix Reformulations of Probabilistic Language Models in Information Retrieval. Tech Report. 2015.
