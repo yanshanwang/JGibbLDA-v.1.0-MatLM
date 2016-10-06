@@ -10,4 +10,4 @@
 3. Change input and output directories in `LdaInfoRetrieval.java`.
 
 Please refer to:
-Yanshan Wang. MatLM: a Matrix Reformulation of Probabilistic Language Models. Tech Report. 2016.
+Yanshan Wang, Hongfang Liu. MatLM: a Matrix Reformulation for Probabilistic Language Models. arXiv:1610.00735. 2016.
